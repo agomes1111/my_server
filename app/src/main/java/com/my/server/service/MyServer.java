@@ -1,4 +1,4 @@
-package com.example.myapplication.server;
+package com.my.server.service;
 
 import android.util.Log;
 

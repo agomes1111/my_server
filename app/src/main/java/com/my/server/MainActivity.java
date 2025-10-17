@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.my.server;
 //
 //import android.os.Bundle;
 //
@@ -29,7 +29,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.example.myapplication.server.MyServer;
+
+import com.my.server.service.MyServer;
 
 import java.io.IOException;
 import java.net.InetAddress;
